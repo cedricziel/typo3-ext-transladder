@@ -1,6 +1,7 @@
 {
     "name": "cedricziel/transladder",
     "description": "Translator hook for the DataHandler",
+    "homepage": "https://github.com/cedricziel/typo3-ext-transladder",
     "type": "typo3-cms-extension",
     "license": "GPL2+",
     "authors": [
@@ -13,6 +14,10 @@
         "symfony/browser-kit": "^3.2",
         "fabpot/goutte": "^3.2",
         "google/cloud": "^0.13.2"
+    },
+    "replace": {
+        "transladder": "*",
+        "typo3-ter/transladder": "*"
     },
     "autoload": {
         "psr-4": {
