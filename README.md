@@ -2,6 +2,8 @@
 
 Minimal extension to translate your content through a DataHandler hook.
 
+![backend image](Resources/Public/Images/Backend.jpg?raw=true)
+
 Target language support:
 
 * bavarian through the great, great [Andreas Hummel / Respekt-empire.de](http://www.respekt-empire.de/Translator/?page=imprint)
