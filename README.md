@@ -11,7 +11,7 @@ Target language support:
 
 ## Installation
 
-You need to use compose mode. This package requires external libraries.
+You need to use composer mode. This package requires external libraries.
 
 ```
 composer require cedricziel/transladder
