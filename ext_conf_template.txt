@@ -1,0 +1,5 @@
+# cat=Translation; type=options[Respekt Bavarian=respekt-bavarian,Google Translate=google]; label=Service
+service = respekt-bavarian
+
+# cat=Translation; type=string; label=Google Translate API key
+google_api_key =
