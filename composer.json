@@ -14,7 +14,7 @@
         "typo3/cms-core": "*",
         "symfony/browser-kit": "^3.2",
         "fabpot/goutte": "^3.2",
-        "google/cloud": "^0.13.2"
+        "google/cloud": "^0.20.1"
     },
     "replace": {
         "transladder": "*",
