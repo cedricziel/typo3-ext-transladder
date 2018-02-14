@@ -3,7 +3,7 @@
     "description": "Translator hook for the DataHandler",
     "homepage": "https://github.com/cedricziel/typo3-ext-transladder",
     "type": "typo3-cms-extension",
-    "license": "GPL2+",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Cedric Ziel",
